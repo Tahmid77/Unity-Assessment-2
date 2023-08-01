@@ -17,8 +17,8 @@ public class NewBehaviourScript : MonoBehaviour
         
     //}
 
-   // public void LoadMyScene(string sceneName)
-    //{
-    //    SceneManager.LoadScene(sceneName);
-   // }
+    public void LoadMyScene(string sceneName)
+    {
+        SceneManager.LoadScene(sceneName);
+    }
 }
